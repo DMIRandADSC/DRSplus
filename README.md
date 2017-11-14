@@ -1,2 +1,2 @@
 # DRSplus
-auto resource schedule with load shedding
+Load Shedding Meets Resource Auto-Scaling in Distributed Stream Processing
